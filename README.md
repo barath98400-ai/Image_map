@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,6 +49,9 @@ Execute the programs and publish them.
     </map>
 </body>
 </html>
+```
+
+
 #OUTPUT
 <img width="1900" height="849" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/bf7e2ce8-d5db-4f65-b723-a48d00709a32" />
 <img width="1809" height="918" alt="Screenshot (135)-1" src="https://github.com/user-attachments/assets/89460f92-71d2-499d-a369-a44284973d9d" />
